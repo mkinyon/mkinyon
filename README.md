@@ -1,16 +1,44 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Mason</h1>
+<h3 align="center">Senior Developer, Systems Architect & Rock RMS Expert</h3>
 
-<!--
-**mkinyon/mkinyon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
+I'm a senior developer and consultant with a strong foundation in IT infrastructure and over a decade of experience delivering scalable software solutions for enterprise and nonprofit clients. I specialize in backend development, system integration, and helping churches leverage technology through platforms like Rock RMS.
 
-Here are some ideas to get you started:
+Currently working at [9 Embers](https://9embers.com), supporting teams building custom solutions using .NET, Golang and Rock RMS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💬 Ask Me About
+- Backend development with **Golang** and **.NET (C#)**
+- Rock RMS customization and architecture
+- SQL Server reporting and optimization
+- Church tech infrastructure
+- System integrations and data sync solutions
+- Developer mentorship and code quality
+- Building for scalability and maintainability
+
+## 🔧 Tools & Technologies
+- **Languages**: C#, Golang, C++, SQL, JavaScript
+- **Frameworks**: .NET, Blazor, Bootstrap
+- **DevOps**: GitHub Actions, Docker, Azure
+- **DB**: SQL Server, SQLite
+- **Other**: Git, REST APIs, Emulation, Premake
+
+## 🚧 Current Projects
+- **HomeFlow** – Blazor-based app for managing home life (recipes, groceries shopping, chore management and more)
+- **DotMatrixBoy** – Game Boy emulator written in C++
+- **Rock RMS Extensions** – Custom plugins and tools for Rock RMS clients
+
+## 🎮 Interests
+- Retro game development and hardware emulation
+- Guitar & music production
+- Exploring new game engines
+- Camping and hiking in Arizona
+
+## 🏗 Fun Facts
+- Built a full-fledged Rock RMS Roku app for live streaming church services
+- Managed an IT infrastructure that streamed live services across multiple campuses
+- Passionate about performance, clean architecture, and mentoring devs
+
+## 🌐 Connect with Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/masonkinyon)
+- 🔗 [GitHub](https://github.com/mkinyon)
+
