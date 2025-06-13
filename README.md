@@ -4,7 +4,7 @@
 ## 👨‍💻 About Me
 I'm a senior developer and consultant with a strong foundation in IT infrastructure and over a decade of experience delivering scalable software solutions for enterprise and nonprofit clients. I specialize in backend development, system integration, and helping churches leverage technology through platforms like Rock RMS.
 
-Currently working at [9 Embers](https://9embers.com), supporting teams building custom solutions using .NET, Golang and Rock RMS.
+Currently working at [9 Embers](https://9embers.com), supporting teams building custom solutions using .NET, Golang and [Rock RMS](https://www.rockrms.com/).
 
 ## 💬 Ask Me About
 - Backend development with **Golang** and **.NET (C#)**
